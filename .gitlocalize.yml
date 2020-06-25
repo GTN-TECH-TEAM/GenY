@@ -1,0 +1,8 @@
+settings:
+  advise_cla_signing: 
+    - "true"
+  frontmatter_not_escaped:
+    - "true"
+  popup_for_contributors:
+    enabled: true
+    message_text: Web-G is Created for use within the GTAT group. Non-affiliated users can access the service from this link --> <a href="https://web.dev">web.dev</a> project.
